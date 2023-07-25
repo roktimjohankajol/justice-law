@@ -1,0 +1,40 @@
+.popins-font{
+    font-family: 'Poppins', sans-serif;
+}
+body{
+    background-color: #fff;
+}
+.theme-btn{
+    background-color: #B68C5A;
+    border: none;
+    color: #fff;
+    text-transform: capitalize;
+    font-weight: 400;
+    padding: 15px 35px !important;
+}
+.theme-btn:hover{
+    background-color: #B68C5A;
+    border: none;
+    color: #fff;
+}
+.eb-font{
+    font-family: 'EB Garamond', serif;
+}
+.banner-image{
+    background-image: url('images/banner.png');
+    background-position: center;
+    background-size: cover;
+}
+.legal-card{
+    padding: 50px 20px;
+}
+.legal-card:hover{
+    background: linear-gradient(180deg, #F3F3F3 0%, rgba(243, 243, 243, 0.00) 100%); 
+}
+.border-bottom{
+    border-bottom: 1px solid rgba(198, 196, 196, 0.725);
+}
+.border-l-r{
+    border-left: 1px solid rgba(198, 196, 196, 0.725);
+    border-right: 1px solid rgba(198, 196, 196, 0.725);
+}
